@@ -1,0 +1,68 @@
+{
+  "darkSkinProducts": [
+    {
+      "id": "versed-press-restart-retinol",
+      "productType": "Gentle Retinol Serum",
+      "productName": "Versed Press Restart Gentle Retinol Serum",
+      "brand": "Versed",
+      "overview": "A gentle retinol serum specifically formulated for sensitive and melanin-rich skin. This innovative formula combines bakuchiol (a plant-based retinol alternative) with traditional retinol for anti-aging benefits without the harsh side effects often experienced by darker skin tones.",
+      "ingredients": "Water/Aqua/Eau, Propanediol, Glycerin, Bakuchiol, Retinol, Sodium Hyaluronate, Alpha-Arbutin, Niacinamide, Tocopherol (Vitamin E), Bisabolol, Allantoin, Carbomer, Phenoxyethanol, Ethylhexylglycerin",
+      "howTo": "Apply 2-3 drops to clean skin in the evening\nStart with 2-3 times per week, gradually increase frequency\nAlways follow with moisturizer and use SPF during the day",
+      "whyEffective": "Bakuchiol retinol alternative is gentle on melanin-rich skin, reducing risk of irritation and post-inflammatory hyperpigmentation. Contains alpha hydroxy acids and antioxidants to even skin tone and improve texture without harsh side effects.",
+      "rateOfImportance": 4,
+      "price": 19.50,
+      "rating": 88,
+      "category": "Anti-Aging Serum",
+      "amazonUrl": "https://www.amazon.com/Versed-Press-Restart-Gentle-Retinol/dp/B09NMP45DS/ref=sr_1_1?crid=6HDHLLD0L424&dib=eyJ2IjoiMSJ9.BDXbfBIV7jUQukoCQiLeZsDNj_v-SpmF-enkn9ZN3G5dJrfj9I8a55Mz7xoInYf7E_LG8jaPwTjHF_hk7BxwIjCZwPcCf3FXlAtlJZvMUOmZaMOZUXtUY3uIBRnf-muwuYdAy3GINFsuCsjmc5zDpBHfOdlNhAYEArkgM8trxG9Ql80Vn5vzO17EsVJD1wN6lPbip6FR_PY-n2AM05aGwbjHR9DLMjkCKpB9rUsn9qmPBM_8_a8nOYv4VaqaJtqrgsUvHIm0k6jiTyJVck3rqxCISavcdPPZOh4gsjGy4TM.0qycGd97C17Szoe6qGTVU1T2CYWQ5Ufn3IT0fFU1m-k&dib_tag=se&keywords=Versed+Press+Restart+Gentle+Retinol+Serum&qid=1758828637&sprefix=versed+press+restart+gentle+retinol+serum%2Caps%2C247&sr=8-1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fversed.webp?alt=media&token=238996d5-0587-46ce-8e68-c14ba4148bcf"
+    },
+    {
+      "id": "cocokind-ceramide-barrier-serum",
+      "productType": "Ceramide Barrier Serum",
+      "productName": "Cocokind Ceramide Barrier Serum",
+      "brand": "Cocokind",
+      "overview": "A lightweight, nourishing serum designed to strengthen and restore the skin barrier with ceramides and plant-based ingredients. Particularly beneficial for darker skin tones that are prone to transepidermal water loss and barrier dysfunction.",
+      "ingredients": "Water/Aqua/Eau, Glycerin, Propanediol, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, Sodium Hyaluronate, Tocopherol, Phenoxyethanol, Ethylhexylglycerin",
+      "howTo": "Apply 3-4 drops to damp skin morning and evening\nGently pat into skin until absorbed\nFollow with moisturizer to lock in hydration",
+      "whyEffective": "Ceramides and barrier-supporting ingredients help restore and maintain the skin barrier, which is crucial for darker skin tones prone to transepidermal water loss. Helps prevent irritation and supports healthy skin barrier function.",
+      "rateOfImportance": 5,
+      "price": 42.49,
+      "rating": 90,
+      "category": "Barrier Repair Serum",
+      "amazonUrl": "https://www.amazon.com/Cocokind-Hydrating-including-Sensitive-Fragrance/dp/B0DLH9F9X2/ref=sr_1_5?crid=9OOU2P9WWZIG&dib=eyJ2IjoiMSJ9.gZEkGAv9MbltQASCyoXrPAk-eTRo4Y8bo_pyquZsJ0OW-tQda-LWpmb-ZrOvTUXUZ-_WNF60lhwRW7cBSugjX0eb_fZws6jy7cIQQCBJ2CtMixSuB_OmWzT_Y5y6UEDjyQWpkg_9c00x1NwinMa39148KUL7H03gu5EBGek86dxq455RoVSVil9l4-NzZqHzVHwHd2jV4dS1qRtFSQJ3xjgbi5wSQ6v8liMDKziHyc-QfEkkIx0Lz5StS4mN_Al7A3F4V2cHxWTGoymF94brUM0v2eyjn8hthy1zdRs22CI.n6e83Z19u6DpPSicbyCTdWUrPgbQvh_S8gduMsiFbUs&dib_tag=se&keywords=Cocokind%2BCeramide%2BBarrier%2BNourishing%2BSerum&qid=1758828721&sprefix=cocokind%2Bceramide%2Bbarrier%2Bnourishing%2Bserum%2Caps%2C255&sr=8-5&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fcocokind.webp?alt=media&token=f5a27532-1571-45a3-a54d-4517201d14ef"
+    },
+    {
+      "id": "experiment-super-saturated-barrier-serum",
+      "productType": "Ultra Hydrating Barrier Serum",
+      "productName": "Experiment Super Saturated Ultra Hydrating Barrier Serum",
+      "brand": "Experiment",
+      "overview": "An ultra-concentrated hydrating serum with 30% glycerin and polyglutamic acid that provides intense moisture retention. Specifically formulated to combat the ashy appearance that darker skin can develop when dehydrated, while strengthening the skin barrier.",
+      "ingredients": "Water/Aqua/Eau, Glycerin (30%), Polyglutamic Acid, Opuntia Ficus-Indica (Prickly Pear) Stem Extract, Sodium Hyaluronate, Beta-Glucan, Allantoin, Panthenol, Carbomer, Phenoxyethanol, Ethylhexylglycerin",
+      "howTo": "Apply 2-3 pumps to clean, damp skin morning and evening\nGently press into skin focusing on dry areas\nCan be layered under moisturizer for extra hydration",
+      "whyEffective": "30% Glycerin and Polyglutamic Acid provide intense moisture retention perfect for darker skin that tends to show ashy appearance when dehydrated. Prickly Pear extract helps with barrier repair and provides antioxidant protection against environmental stressors.",
+      "rateOfImportance": 4,
+      "price": 27.99,
+      "rating": 91,
+      "category": "Hydrating Serum",
+      "amazonUrl": "https://www.amazon.com/Experiment-Super-Saturated-Hydrating-Barrier/dp/B0DVMK3D64/ref=sr_1_1_sspa?crid=1B2FLABGKKPKQ&dib=eyJ2IjoiMSJ9.ixKgKN9qZa2ix5HLXrcP9LPMI0vNWhHfL0YN8kJuNNpbbNmTekN2DsryFEsS5yXUnG7J4HW66xgtBhvmzwQZDyl66PgL4GfAbWvF7nz6ZubCCVJcotOBCtsxdGmWPVLCwf5g_P7X-65WMrYBJdfOmk52jNFQSiX_lYVljN3AiQEDWsFJ3xunqTmsNqsAX8b_.Z-aZVLI3kw053R36CWmQxSFoq1gGOUCzQQ_IpyRn5xE&dib_tag=se&keywords=Experiment+Super+Saturated+Hydrating+Barrier+Serum&qid=1758828798&sprefix=experiment+super+saturated+hydrating+barrier+serum%2Caps%2C228&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fsupersaturated.jpeg?alt=media&token=193c6c6b-b3ef-4201-a835-ac3a0e49cd23"
+    },
+    {
+      "id": "mad-hippie-ultra-rich-barrier-cream",
+      "productType": "Ultra-Rich Barrier Cream",
+      "productName": "Mad Hippie Ultra-Rich Barrier Cream",
+      "brand": "Mad Hippie",
+      "overview": "A multi-purpose, ultra-rich moisturizer specifically formulated to address common concerns in darker skin tones including hyperpigmentation, uneven tone, and barrier damage. This nutrient-dense formula prevents ashiness while maintaining a healthy, natural glow.",
+      "ingredients": "Water/Aqua/Eau, Glycerin, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Sodium Ascorbyl Phosphate (Vitamin C), Niacinamide, Sodium Hyaluronate, Tocopherol (Vitamin E), Allantoin, Bisabolol, Carbomer, Phenoxyethanol, Ethylhexylglycerin",
+      "howTo": "Apply generous amount to face and neck morning and evening\nMassage gently until fully absorbed\nCan be used as final step in skincare routine for overnight repair",
+      "whyEffective": "Multi-purpose moisturizer with Hyaluronic Acid, Niacinamide, and Vitamin C specifically addresses common concerns in darker skin including hyperpigmentation, uneven tone, and barrier damage. Rich formula prevents ashiness and maintains healthy glow.",
+      "rateOfImportance": 5,
+      "price": 17.99,
+      "rating": 89,
+      "category": "Barrier Repair Moisturizer",
+      "amazonUrl": "https://www.amazon.com/Mad-Hippie-Ultra-Rich-Barrier-Travel-Friendly/dp/B0DSY9XHC5/ref=sr_1_1_sspa?crid=STJIITSE7GBV&dib=eyJ2IjoiMSJ9.8nTtfRC57owDcmMsBKEw-yde7noLKMvixW8PY8fKkKvf6YJPMRL-BzypYqnLrRhNN2vFBT93U0XGB3vP_iuJVMwVLBpATKiaR7x6kEgKhDx55RxPFIbb0YIOnxJ6dnCjR0Rw97MSbn7svMmYL-hAsh1-xKjnKL3oqjNFzgc4eoKBabXeK0ubs9lrv31cxc4hbm2us39ssdovK6NVhajpDdsN0suz1ow8auRCJyIYSaHW24BvZFG4Hcy4u0dQxaDt9fAEhlwPyEjAozz_EqmP3vp0d_znj6tew5Nm6NfySPE.M13AMe3FjLT6i7TusObPDqVPBqnzrox9WhIndLh0yRU&dib_tag=se&keywords=Mad+Hippie+Ultra+Rich+Barrier+Cream&qid=1758828849&sprefix=mad+hippie+ultra+rich+barrier+cream%2Caps%2C422&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fmadhippieultrarich.jpg?alt=media&token=ea6b81bc-6eb4-40f2-9ef2-0f8b6ffb0833"
+    }
+  ]
+}

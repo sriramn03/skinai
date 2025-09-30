@@ -1,0 +1,68 @@
+{
+  "moisturizers": [
+    {
+      "id": "cerave-moisturizing-cream",
+      "productType": "Rich Cream Moisturizer",
+      "productName": "CeraVe Moisturizing Cream",
+      "brand": "CeraVe",
+      "overview": "A rich, non-greasy moisturizing cream that provides 24-hour hydration and helps restore the protective skin barrier. Ideal for normal to dry skin types.",
+      "ingredients": "Purified Water, Glycerin, Ceteareth-20, Petrolatum, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Behentrimonium Methosulfate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopheryl Acetate, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
+      "howTo": "Apply generous amount to clean face and neck\nMassage in upward circular motions\nAllow full absorption before next step",
+      "whyEffective": "Formulated with ceramides and hyaluronic acid to restore and maintain the skin's natural barrier while providing long-lasting hydration.",
+      "rateOfImportance": 5,
+      "price": 16.08,
+      "rating": 91,
+      "category": "Moisturizer",
+      "amazonUrl": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC?th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fmoisturizers_dry_moisturizer.png?alt=media&token=553d83d0-9df1-409c-accf-92b771be895d"
+    },
+    {
+      "id": "cetaphil-daily-facial-moisturizer",
+      "productType": "Lotion Cream Moisturizer",
+      "productName": "Cetaphil Daily Facial Moisturizer",
+      "brand": "Cetaphil",
+      "overview": "A lightweight, non-comedogenic daily moisturizer that provides long-lasting hydration for normal to combination skin. Dermatologist recommended for sensitive skin.",
+      "ingredients": "Water, Glycerin, Dimethicone, Glyceryl Stearate, Macadamia Integrifolia Seed Oil, PEG-100 Stearate, Cetyl Alcohol, Dimethiconol, Benzyl Alcohol, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Tocopheryl Acetate",
+      "howTo": "Apply moderate amount to face and neck\nPat and massage gently until absorbed\nAdjust amount based on seasonal needs",
+      "whyEffective": "Contains hyaluronic acid that holds up to 1000 times its weight in water, providing optimal hydration without heaviness.",
+      "rateOfImportance": 5,
+      "price": 12.49,
+      "rating": 88,
+      "category": "Moisturizer",
+      "amazonUrl": "https://www.amazon.com/Hyaluronic-Combination-Non-Comedogenic-Dermatologist-Recommended/dp/B01MG4PSK4",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fmoisturizers_normal_moisturizer.png?alt=media&token=4179027b-ed7d-448d-86ff-3839ef72bd21"
+    },
+    { 
+      "id": "laroche-posay-toleriane-double-repair",
+      "productType": "Oil-free Gel-cream Moisturizer",
+      "productName": "La Roche-Posay Toleriane Double Repair Moisturizer",
+      "brand": "La Roche-Posay",
+      "overview": "An oil-free, lightweight moisturizer that provides essential ceramides and niacinamide to restore the skin barrier and reduce sensitivity. Perfect for oily and sensitive skin.",
+      "ingredients": "Water, Glycerin, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Niacinamide, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Glycine, Phytosphingosine, Xanthan Gum, T-butyl Alcohol, Ethylhexylglycerin",
+      "howTo": "Apply thin layer to face and neck\nPat gently until absorbed, avoid T-zone\nUse morning and evening after treatments",
+      "whyEffective": "Oil-free formula with niacinamide and ceramides provides essential hydration while controlling excess oil production.",
+      "rateOfImportance": 5,
+      "price": 19.99,
+      "rating": 89,
+      "category": "Moisturizer",
+      "amazonUrl": "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ?th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fmoisturizers_oil_moisturizer.png?alt=media&token=fbf80d86-eb37-43c8-9bd8-f5983b3e6e51"
+    },
+    {
+      "id": "aveeno-calm-restore-oat-gel-moisturizer",
+      "productType": "Gel-lotion Moisturizer",
+      "productName": "Aveeno Calm + Restore Oat Gel Moisturizer",
+      "brand": "Aveeno",
+      "overview": "A lightweight gel-lotion moisturizer with prebiotic oat that helps restore the skin's natural moisture barrier. Ideal for sensitive combination skin that needs balanced hydration.",
+      "ingredients": "Water, Isopropyl Palmitate, Dimethicone, Glycerin, Polyacrylamide, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, C13-14 Isoparaffin, Carbomer, Avena Sativa (Oat) Kernel Flour, Laureth-7, Ethylhexylglycerin, Sodium Hydroxide, Avena Sativa (Oat) Kernel Extract",
+      "howTo": "Apply more product to dry areas\nUse lighter amount on areas prone to oiliness\nPat gently until absorbed, adjust as needed",
+      "whyEffective": "Lightweight gel-lotion hybrid with oat extract balances hydration needs of different areas effectively while soothing sensitive skin.",
+      "rateOfImportance": 5,
+      "price": 8.97,
+      "rating": 84,
+      "category": "Moisturizer",
+      "amazonUrl": "https://www.amazon.com/Aveeno-Moisturizer-Lightweight-Hypoallergenic-Paraben-Free/dp/B08D9MSGVQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.6onQjgRSPA-R-a3XskS-D0uwkPKwslvLStiNuetcq89_mWJKrAzP4S9fVCQswrRbD2ivlYhUuuykzpQah3R970hUhIxi9jPBd54qtZZP57NXC8rznTmvcGDUEg2nO8jMefjNsofFB775rDc2-TiODzLS6xVoT5tyrwK63vzT57DS_Bo7KUrp3hhwgCHtW6UvpJaVTAi5grtWasCaL8difnPig3myz_UWXfVKLBym6mu4d3tGyBkwnk5uvVR5rtK-xyg1c8EO1NxbS9W5BkNEVYcfbZcbQxLvHI9t6Jsvcpk.4A96kHEKDuhjvJbz5FAkJEEBnZ8O0VXdgbbQwda9_lI&dib_tag=se&hvadid=723322114460&hvdev=c&hvexpln=0&hvlocphy=9221331&hvnetw=g&hvocijid=10716162179598986735--&hvqmt=b&hvrand=10716162179598986735&hvtargid=kwd-2384937105977&hydadcr=27506_14672608&keywords=aveeno%2Boat%2Bgel%2Bcalm%2Band%2Brestore&mcid=20202be239b13e9b8c9d39680d3d056b&qid=1758846277&sr=8-1&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Faveeno.jpg?alt=media&token=1a93e301-6083-42d1-abb5-ee0101e0fc4c"
+    }
+  ]
+}

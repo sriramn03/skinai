@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">DermAI</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">1429791304985140</string>
+  <string name="facebook_client_token">7825daef6babdd1bf4e92e7dff40feed</string>
+  <string name="fb_login_protocol_scheme">fb1429791304985140</string>
+</resources>

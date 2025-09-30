@@ -1,0 +1,68 @@
+{
+  "cleansers": [
+    {
+      "id": "cerave-hydrating-facial-cleanser",
+      "productType": "Cream Cleanser",
+      "productName": "CeraVe Hydrating Facial Cleanser",
+      "brand": "CeraVe",
+      "overview": "A gentle, hydrating cream cleanser that effectively removes dirt, oil, and makeup without stripping the skin's natural moisture barrier. Perfect for dry and sensitive skin types.",
+      "ingredients": "Water, Glycerin, Behentrimonium Methosulfate, Cetearyl Alcohol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Dimethicone, MVA/MA Decadiene Crosspolymer, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocoph",
+      "howTo": "Apply cleanser to dry skin with fingertips\nMassage gently for 30-60 seconds\nRinse with lukewarm water and pat dry",
+      "whyEffective": "Contains ceramides and hyaluronic acid that cleanse while maintaining the skin's natural moisture barrier.",
+      "rateOfImportance": 5,
+      "price": 13.49,
+      "rating": 89,
+      "category": "Cleanser",
+      "amazonUrl": "https://www.amazon.com/CeraVe-Hydrating-Facial-Cleanser-Washing/dp/B00D7BZJ3C?utm_source=chatgpt.com&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fcleanser_dry_cleanser.png?alt=media&token=d77e7c24-b125-45a3-9282-f75d9f69e17b"
+    },
+    {
+      "id": "laroche-posay-toleriane-purifying",
+      "productType": "Gel Cleanser",
+      "productName": "La Roche-Posay Toleriane Purifying Foaming Cleanser",
+      "brand": "La Roche-Posay",
+      "overview": "A gentle foaming cleanser designed for sensitive skin that effectively removes impurities while respecting the skin's natural barrier. Ideal for normal to combination skin types.",
+      "ingredients": "Aqua/Water, Coco-Betaine, Propanediol, PEG-120 Methyl Glucose Dioleate, Niacinamide, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Triethyl Citrate, Sodium Chloride, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Glycine",
+      "howTo": "Apply to damp skin and work into light lather\nMassage for 30 seconds focusing on entire face\nRinse thoroughly with lukewarm water",
+      "whyEffective": "Formulated with niacinamide and ceramides to cleanse effectively while maintaining skin balance and reducing irritation.",
+      "rateOfImportance": 5,
+      "price": 14.99,
+      "rating": 87,
+      "category": "Cleanser",
+      "amazonUrl": "https://www.amazon.com/Roche-Posay-Toleriane-Purifying-Sensitive-Niacinamide/dp/B01N34XW93/ref=sr_1_1?crid=22IKEJERDZDX2&dib=eyJ2IjoiMSJ9.1ccpRl5PPKwuAwzLdJCsacXvWOqtIFLU1FFajD3n3dIpX4vI43w5DIaT50Bq-uMhTBh07BAdRfzkbwSm7q1qk_p5IAsMn5gUYEi5VJE9QmtOQUQdHVibRGZNUW_NdmhdhRSkxJDhP5DzsLTmsIMYWQTne7sFMAkmA_i-nE_vUE5g2-6xCujDSSvWm-KroaFWkHajHOerJRKaJTKp81BP9UJewHF-rfUNsPnqbhz42Wb0eSuqorCpWir5tvn2YTzWw0GpP0_CYocYql19-u1eQ5PyIuBm8HmhxAHFSK-7m-k.EPSQp2i7Zlb6DwJzaq-FHRBdGERIi76z_Lz5curQjkw&dib_tag=se&keywords=La%2BRoche%E2%80%91Posay%2BToleriane%2BPurifying%2BFoaming%2BCleanser&qid=1754695471&s=beauty&sprefix=la%2Broche%2Bposay%2Btoleriane%2Bpurifying%2Bfoaming%2Bcleanser%2Cbeauty%2C69&sr=1-1&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fcleanser_normal_cleanser.png?alt=media&token=aa6856ea-fda9-4e50-84cf-380c6a820650"
+    },
+    {
+      "id": "neutrogena-ultra-light-cleansing-oil",
+      "productType": "Foaming Cleanser",
+      "productName": "Neutrogena Ultra Light Cleansing Oil",
+      "brand": "Neutrogena",
+      "overview": "An ultra-light cleansing oil that transforms into a rich foam to effectively remove makeup, sunscreen, and impurities without leaving an oily residue. Perfect for oily and combination skin.",
+      "ingredients": "Ethylhexyl Palmitate, PEG-20 Glyceryl Triisostearate, PEG-8 Diisostearate, Caprylic/Capric Triglyceride, Water, Isopropyl Myristate, Hexylene Glycol, PEG-6 Caprylic/Capric Glycerides, Cucumis Sativus (Cucumber) Fruit Extract, PEG-4 Laurate, Carbomer, Iodopropynyl Butylcarbamate",
+      "howTo": "Apply to wet skin and work into rich foam\nMassage for 45 seconds focusing on T-zone\nRinse thoroughly and use twice daily",
+      "whyEffective": "Oil-based formula effectively dissolves excess sebum and makeup while being gentle enough for daily use.",
+      "rateOfImportance": 5,
+      "price": 8.97,
+      "rating": 85,
+      "category": "Cleanser",
+      "amazonUrl": "https://www.amazon.com/Neutrogena-Ultra-Light-Cleansing-Oil/dp/B01034IN9M/ref=sr_1_1?crid=3CR5C0V8H49TO&dib=eyJ2IjoiMSJ9.e2BlDnkkaFsmrsFUWihuAQuXg3g1WAL2SFrEL6TRfKUkacYHXRCxhuz2RirJkJ3OMYUMoKEzkv91HPc-xl7UlPgbwUifbPmdBlFQ2n3laqGB2b6VnpOfSFbiT0gvE_MiNAjDXl7wTw0qQ6zzky8NPb30PPmvHAfIWVoi0xAkFeAH2M1u35tEAhavc-jJQu5yo9psDMXHjL_wb6cviW1V7g7L_0GXiFt0IQAkAXUgwkUoR9s3NWhxyRmYJtWLOHwMx6b9YC2bXjc54ls5Pvw-v8niNyXPqDjDh9DxVmON__w.db4GjhAh_cow5Dj2SUC0SjtGRTyIscOBilayPDxwLQY&dib_tag=se&keywords=Neutrogena%2BUltra%2BLight%2BCleansing%2BOil&qid=1754758166&s=beauty&sprefix=neutrogena%2Bultra%2Blight%2Bcleansing%2Boil%2Cbeauty%2C57&sr=1-1&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fcleanser_oil_cleanser.png?alt=media&token=2cf72dda-8731-4d39-8b42-777a135625a4"
+    },
+    {
+      "id": "neutrogena-ultra-gentle-daily",
+      "productType": "Gel-foam Cleanser",
+      "productName": "Neutrogena Ultra Gentle Daily Cleanser",
+      "brand": "Neutrogena",
+      "overview": "A sulfate-free daily cleanser with polyhydroxy acid that gently cleanses and exfoliates while maintaining skin balance. Ideal for combination skin that needs gentle yet effective cleansing.",
+      "ingredients": "Water, Cocamidopropyl Betaine, Sodium Cocoyl Glycinate, Hydroxypropyl Methylcellulose, Polyhydroxy Acid Complex, Sodium Chloride, Citric Acid, Sodium Benzoate, Fragrance",
+      "howTo": "Apply to damp skin and create light foam\nMassage gently for 30 seconds, focus on T-zone\nRinse well with lukewarm water",
+      "whyEffective": "Polyhydroxy acid gently exfoliates while being sulfate-free, making it perfect for balancing combination skin needs.",
+      "rateOfImportance": 5,
+      "price": 6.97,
+      "rating": 86,
+      "category": "Cleanser",
+      "amazonUrl": "https://www.amazon.com/Neutrogena-Balancing-Polyhydroxy-Paraben-Free-Sulfate-Free/dp/B088S15MCJ?utm_source=chatgpt.com",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fcleanser_combination_cleanser.png?alt=media&token=34f6b40e-5833-40b1-b424-259ee9a7c532"
+    }
+  ]
+}

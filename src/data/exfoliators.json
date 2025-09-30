@@ -1,0 +1,61 @@
+
+{
+  "exfoliators": [
+    {
+      "id": "the-ordinary-lactic-acid-5-ha",
+      "productType": "Gentle AHA Exfoliant",
+      "productName": "The Ordinary Lactic Acid 5% + HA",
+      "brand": "The Ordinary",
+      "howTo": "Apply thin layer to clean skin PM only\nStart 2-3x per week, avoid eye area\nAlways follow with moisturizer and SPF next day",
+      "whyEffective": "Lactic acid gently exfoliates dead skin cells while hyaluronic acid provides hydration, making it ideal for sensitive skin.",
+      "rateOfImportance": 3,
+      "price": 7.20,
+      "rating": 89,
+      "category": "Exfoliator",
+      "amazonUrl": "https://www.amazon.com/Ordinary-Lactic-Acid-30ml-Superficial/dp/B01NA0F3FB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sUUz8bHp2tg1TzBpTpRaihPBiQKNx-V-iBod9xL0tyjSG-P23dEytQJ7oyGh-xcnvqI2QRmvgstHcxonCloPCRHsP8V9fqpb7Tr3ntQvOBOSwu5snyq-Ly3sRYgKeVqzunj4ToSXUjh-PnQK54AW6l4N-NHxl-5IDKPGDLMDb35Sb1Y1I5jaCvn8dgnaC8CdgJBXvT7vK70zeEErP2fL4qH7Sz-LnMwzrSSLaT2_klxgzVknUwRL7mxIheoBiDsoReWqWdxRS29L-5PJQQUtROIJVp7JzQu3h478gtczZM4.Rlzr0zhcguTr1QweyLEvVPUOhPMCGFaPtLoDzywXPuI&dib_tag=se&keywords=he%2BOrdinary%2BLactic%2BAcid%2B5%25%2B%2B%2BHA&qid=1754704144&sr=8-1&th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fexfoliators_dry_exfoliator.png?alt=media&token=41af97fb-7c32-49d7-8093-f47d8965f70c"
+    },
+    {
+      "id": "cosrx-bha-blackhead-power-liquid",
+      "productType": "Balanced BHA Exfoliant",
+      "productName": "COSRX BHA Blackhead Power Liquid",
+      "brand": "COSRX",
+      "howTo": "Apply with cotton pad to clean skin\nStart 2-3x per week, gradually increase\nUse PM only, always follow with SPF next day",
+      "whyEffective": "Betaine salicylate (gentler BHA) unclogs pores and refines texture while niacinamide soothes and hydrates.",
+      "rateOfImportance": 3,
+      "price": 25.00,
+      "rating": 87,
+      "category": "Exfoliator",
+      "amazonUrl": "https://www.amazon.com/Cosrx-Bha-Blackhead-Power-Liquid/dp/B00OZEJ8R8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UX7XrowgPBTZr-5EuXFdRqlm-Cv_AmWCeaRiN2mVpn7RlRZtdR5C6roZivl7PPMudy2GAZE7M_h6CttNi8ElSPathF59l0NcFxUunvqqVCkcLBi6qpZS1RmSbaDh-m1rHZjy2hR8hSi892pcuV4ERDFj8xxmWIKL1J0a2Tn7n-xxLEBaVGsVKZjjmIVxhWsw2RAltsXWkE0EIYjhBsrZg89DiI_zOvr6tQ53DzSINsahQ-lNLBCMEVUaRTgZkfAA4g0FobW4ypKlVLLcG5CQtHRcSYVVUj1Vz7kF9I-JNMA.mB1n5dSdr-R4EwI0V9cyeERT-yC5SO2Lo2GCoISlDMA&dib_tag=se&keywords=COSRX+BHA+Blackhead+Power+Liquid&qid=1754704180&sr=8-1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fexfoliators_normal_exfoliator.png?alt=media&token=e62242cf-f91b-42ec-9e06-9034a37a4d0a"
+    },
+    {
+      "id": "paulas-choice-2-bha-liquid-exfoliant",
+      "productType": "BHA Liquid Exfoliant",
+      "productName": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+      "brand": "Paula's Choice",
+      "howTo": "Apply with cotton pad PM only\nStart 3x per week, build tolerance\nFocus on pore-prone areas and problem zones",
+      "whyEffective": "Salicylic acid penetrates deep into pores to dissolve oil and debris while being gentle enough for regular use.",
+      "rateOfImportance": 4,
+      "price": 32.00,
+      "rating": 92,
+      "category": "Exfoliator",
+      "amazonUrl": "https://www.amazon.com/Paulas-Choice-SKIN-PERFECTING-Salicylic-Exfoliant/dp/B07D8DBS7S?th=1",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Fexfoliators_oil_exfoliator.png?alt=media&token=6cf3b081-de53-4093-b6d7-9eae55f21336"
+    },
+    { 
+      "id": "aveeno-brightening-daily-scrub",
+      "productType": "Brightening Daily Scrub",
+      "productName": "Aveeno Brightening Daily Scrub",
+      "brand": "Aveeno",
+      "howTo": "Apply to wet face and gently massage in circular motions\nFocus on areas needing extra brightening\nRinse thoroughly with water, use 2-3x per week",
+      "whyEffective": "Contains moisture-rich soy extract and gentle exfoliating particles to brighten skin tone while removing dead skin cells. Hypoallergenic and non-comedogenic formula is suitable for sensitive skin.",
+      "rateOfImportance": 3,
+      "price": 7.49,
+      "rating": 86,
+      "category": "Exfoliator",
+      "amazonUrl": "https://www.amazon.com/Aveeno-Brightening-Moisture-Rich-Hypoallergenic-Non-Comedogenic/dp/B0000632EN/ref=sr_1_3?dib=eyJ2IjoiMSJ9.XmpoyN1TYF7Err2TYs-P6IKhA4FliRSH79LnN61jbAdJaLgXNYnKEQDCDzM0rnhB81GUqsmfEfDL0_x3nayXLV6sYNF8cGlOCk7Yy45D8vyOgcx2u2vvOK2xcW9i8DQKD3CB55hLz-N4f9_B55dbVk1_e2yBXEvlqGZIae4IoIsjDXaaCglHEALuZZMCAUYKEViXk-jeGbG-Qxl47KXXG9vwWxTZM63SlYkjGl1BCgr7pP63dXxcVa6ine1umCHMf2Bl86tNbUKPziyA2jnc4PHs9L4QcDqkNfgrFEOAp2o.E_BPyWKy3APl9hcq_Wxe9aV_NZb4FCOYYn7ZDqSmzN0&dib_tag=se&keywords=Aveeno+Skin+Brightening+Daily+Scrub+Tube&qid=1758846468&sr=8-3",
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/skinai-49330.firebasestorage.app/o/product-images%2Faveenoexfoliator.jpg?alt=media&token=67dc3814-ce75-4761-8371-e8bff12c0b2d"
+    }
+  ]
+}

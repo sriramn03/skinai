@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "806342866300",
+    "project_id": "skinai-49330",
+    "storage_bucket": "skinai-49330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806342866300:android:91f9ab1aac347a752760f9",
+        "android_client_info": {
+          "package_name": "com.anonymous.skinai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806342866300-4dp5j9qloi59mic71d33uqsevd7ks31d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "f4625f504aff7025cc34e8d94a58c107bf4c99b6"
+          }
+        },
+        {
+          "client_id": "806342866300-kec5so9sd056m08ql1nbpobdbcu459ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "3df09625ca5e85c1067eeee0372a178c6c015a00"
+          }
+        },
+        {
+          "client_id": "806342866300-pbcqsjn5197ff1chppqsn7a4fpr6kt1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "fd0d0b4f51634bb8c5a2bc26ff37c13f5ba31732"
+          }
+        },
+        {
+          "client_id": "806342866300-s17img6ffuoc429u5qjc1ort0qjak963.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "806342866300-ashs0col9js8vsk6ilvmrkdeh8blk3rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoR4VHqrCJJO5kmsQ94Vgp1os-P9pXKA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806342866300-ashs0col9js8vsk6ilvmrkdeh8blk3rb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806342866300-8rm277ovjgdlibr9lgt5a8o3rbieqndd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anonymous.skinai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

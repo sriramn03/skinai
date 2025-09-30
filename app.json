@@ -1,29 +1,88 @@
 {
   "expo": {
-    "name": "skinai",
-    "slug": "skinai",
-    "version": "1.0.0",
+    "name": "DermAI",
+    "slug": "DermAI",
+    "version": "1.45.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.skinai",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "DermAI needs access to your photos to analyze images you select.",
+        "NSUserNotificationUsageDescription": "We use notifications to remind you about your AM/PM skincare routine."
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/loadingscreen.png",
+        "backgroundColor": "#000000"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.skinai",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      "@react-native-google-signin/google-signin",
+      [
+        "react-native-fbsdk-next",
+        {
+          "appID": "1429791304985140",
+          "clientToken": "7825daef6babdd1bf4e92e7dff40feed",
+          "displayName": "DermAI",
+          "scheme": "fb1429791304985140"
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow DermAI to access your camera for facial analysis."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "DermAI needs access to your photos to analyze images you select."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#8B5CF6",
+          "defaultChannel": "routine-reminders"
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "78843af0-497f-487b-831c-0317d801c974"
+      }
     }
   }
 }

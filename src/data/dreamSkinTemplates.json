@@ -1,0 +1,599 @@
+{
+  "dreamSkinTemplates": {
+    "glassSkin": {
+      "name": "Glass Skin",
+      "aim": "pore-blur, ultra-dewy glow",
+      "description": "Achieve that coveted translucent, poreless glow with intense hydration and luminosity",
+      "amRoutine": {
+        "stepCount": "4-6 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Remove overnight buildup and prep skin",
+            "productType": "gentle foam or gel cleanser",
+            "howTo": ""
+          },
+          {
+            "step": 2,
+            "name": "Hydration Booster",
+            "category": "hydration",
+            "purpose": "Instantly plump and prep for absorption",
+            "productType": "hyaluronic acid serum or essence",
+            "howTo": "Apply 2-3 drops to clean, damp skin. Gently pat in with fingertips, allowing full absorption before next step. Can layer 2-3 times for extra hydration."
+          },
+          {
+            "step": 3,
+            "name": "Brightening Step",
+            "category": "brightening treatment",
+            "purpose": "Enhance radiance and even tone",
+            "productType": "Vitamin C Serum",
+            "howTo": "Apply 2-3 drops to clean skin, gently pat in with fingertips, wait 1-2 minutes before next step. Use vitamin C in AM, niacinamide can be used AM or PM."
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Lock in hydration and create smooth base",
+            "productType": "lightweight gel or water-based moisturizer",
+            "howTo": ""
+          },
+          {
+            "step": 5,
+            "name": "Protect",
+            "category": "protection",
+            "purpose": "Shield from UV damage and maintain glow",
+            "productType": "-spectrum SPF 30+ withbroad dewy finish",
+            "howTo": "Apply generous amount (1/4 teaspoon) to face and neck 15 minutes before sun exposure. Reapply every 2 hours or after sweating/swimming."
+          }
+        ]
+      },
+      "pmRoutine": {
+        "stepCount": "4 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "",
+            "productType": "gentle foam or gel cleanser",
+            "howTo": ""
+            },
+          {
+            "step": 2,
+            "name": "Exfoliant",
+            "category": "Exfoliators",
+            "purpose": "Remove dead skin cells for smoother texture",
+            "productType": "gentle AHA/BHA or enzyme exfoliant",
+            "howTo": "Apply thin layer to clean skin 2-3x per week initially, gradually increase frequency. Avoid eye area. Always follow with moisturizer and use SPF next day."
+          },
+          {
+            "step": 3,
+            "name": "Barrier Repair",
+            "category": "Barrier Treatment",
+            "purpose": "Strengthen skin barrier overnight",
+            "productType": "ceramide or peptide serum",
+            "howTo": ""
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Seal in all treatments for overnight repair",
+            "productType": "rich night moisturizer or sleeping mask",
+            "howTo": ""
+          }
+        ]
+      }
+    },
+    "clearSkin": {
+      "name": "Clear Skin",
+      "aim": "zero breakouts, even tone",
+      "description": "Target acne and blemishes while maintaining balanced, healthy skin",
+      "amRoutine": {
+        "stepCount": "4-6 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Remove excess oil without over-drying",
+            "productType": "salicylic acid or gentle foaming cleanser",
+            "howTo": ""
+          },
+          {
+            "step": 2,
+            "name": "Soothing Serum",
+            "category": "soothing treatment",
+            "purpose": "Calm inflammation and redness",
+            "productType": "niacinamide or centella asiatica serum",
+            "howTo": "Apply 2-3 drops to clean skin, gently pat in with fingertips. Can be used morning and evening. Start with once daily if new to niacinamide."        
+          },
+          {
+            "step": 3,
+            "name": "Spot Treatment",
+            "category": "spot treatment",
+            "purpose": "Target active breakouts directly",
+            "productType": "benzoyl peroxide or salicylic acid spot treatment",
+            "howTo": "Apply small amount directly to active blemishes only. Start with every other night to build tolerance. Avoid over-application to prevent irritation.",
+            "optional": "breakouts"
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Hydrate without clogging pores",
+            "productType": "oil-free, non-comedogenic moisturizer",
+            "howTo": ""
+          },
+          {
+            "step": 5,
+            "name": "Protect",
+            "category": "protection",
+            "purpose": "Prevent post-inflammatory hyperpigmentation",
+            "productType": "mineral SPF 30+ for sensitive skin",
+            "howTo": "Apply generous amount (1/4 teaspoon) to face and neck 15 minutes before sun exposure. Reapply every 2 hours or after sweating/swimming."
+          }
+        ]
+      },
+      "pmRoutine": {
+        "stepCount": "4 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Remove excess oil without over-drying",
+            "productType": "salicylic acid or gentle foaming cleanser",
+            "howTo": ""
+          },
+          {
+            "step": 2,
+            "name": "Pore-Clearing Toner",
+            "category": "exfoliating treatment",
+            "purpose": "Unclog pores and prevent breakouts",
+            "productType": "BHA toner or witch hazel",
+            "howTo": ""
+          },
+          {
+            "step": 3,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Maintain skin barrier overnight",
+            "productType": "gel-cream or lightweight night moisturizer",
+            "howTo": ""
+          }
+        ]
+      }
+    },
+    "porcelainSkin": {
+      "name": "Porcelain Skin",
+      "aim": "flawless, even-tone clarity",
+      "description": "Achieve perfectly even, smooth complexion with refined texture and luminous clarity",
+      "amRoutine": {
+        "stepCount": "4 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Gently cleanse without disrupting skin tone",
+            "productType": "cream or milk cleanser",
+            "howTo": ""
+          },
+          {
+            "step": 2,
+            "name": "Brightening Step",
+            "category": "brightening treatment",
+            "purpose": "Even skin tone, fade dark spots, and calm skin in one step",
+            "productType": "Hydroboost",
+                        "howTo": "Apply 2-3 drops to clean skin, gently pat in with fingertips. Use in the AM only."
+          },
+          {
+            "step": 3,
+            "name": "Soothing Serum",
+            "category": "soothing treatment",
+            "purpose": "Calm inflammation and redness",
+            "productType": "niacinamide or centella asiatica serum",
+            "howTo": "Apply 2-3 drops to clean skin, gently pat in with fingertips. Can be used morning and evening. Start with once daily if new to niacinamide."        
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Smooth texture, support barrier, and maintain hydration",
+            "productType": "ceramide- or peptide-rich moisturizer",
+            "howTo": ""
+          },
+          {
+            "step": 5,
+            "name": "Protect",
+            "category": "protection",
+            "purpose": "Prevent new dark spots and maintain clarity",
+            "productType": "zinc oxide SPF with slight tint",
+            "howTo": "Apply generous amount (1/4 teaspoon) to face and neck 15 minutes before sun exposure. Reapply every 2 hours or after sweating/swimming."
+          }
+        ]
+      },
+      "pmRoutine": {
+        "stepCount": "4 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Gently cleanse without disrupting skin tone",
+            "productType": "cream or milk cleanser",
+            "howTo": ""
+          },
+          {
+            "step": 2,
+            "name": "Exfoliator",
+            "category": "Exfoliators",
+            "purpose": "Gently refine texture and enhance product absorption",
+            "productType": "gentle AHA (lactic acid or mandelic acid) exfoliant",
+            "howTo": "Apply thin layer to clean skin 2-3x per week initially, gradually increase frequency. Avoid eye area. Always follow with moisturizer and use SPF next day."
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Seal in treatment and repair skin barrier overnight",
+            "productType": "ceramide- or peptide-rich moisturizer",
+            "howTo": ""
+          }
+        ]
+      }
+    },
+    "honeySkin": {
+      "name": "Honey Skin",
+      "aim": "warm-toned, cushiony dew",
+      "description": "Create supple, bouncy skin with a natural healthy glow and plump texture through layered hydration and barrier support",
+      "amRoutine": {
+        "stepCount": "5 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Gently cleanse without stripping natural moisture",
+            "productType": "low pH gel or cream cleanser with hydrating agents",
+            "howTo": "Massage onto damp skin for 30–60 seconds, rinse with lukewarm water."
+          },
+          {
+            "step": 2,
+            "name": "Hydrating Essence/Toner",
+            "category": "hydrating toner",
+            "purpose": "Deliver deep hydration and prep skin for layering",
+            "productType": "essence or toner with hyaluronic acid, glycerin, and beta-glucan",
+            "howTo": "Pat onto skin after cleansing. Use 2–3 layers if skin is dehydrated."
+          },
+          {
+            "step": 3,
+            "name": "Propolis + Antioxidant Serum",
+            "category": "antioxidant treatment",
+            "purpose": "Boost glow, fight free radicals, and enhance skin bounce",
+            "productType": "serum with propolis extract, honey extract, vitamin E, or niacinamide",
+            "howTo": "Apply 2–3 drops to face and neck, pat in gently."
+          },
+          {
+            "step": 4,
+            "name": "Moisturizer",
+            "category": "moisturizing",
+            "purpose": "Seal hydration, support elasticity, and add cushion",
+            "productType": "ceramide-rich cream or emulsion with squalane",
+            "howTo": "Apply evenly to face and neck, press gently for absorption."
+          },
+          {
+            "step": 5,
+            "name": "Protect",
+            "category": "protection",
+            "purpose": "Prevent UV damage and maintain glow",
+            "productType": "broad-spectrum SPF 30+ with a dewy finish",
+            "howTo": "Apply ~1/4 teaspoon to face/neck 15 minutes before sun. Reapply every 2 hours."
+          }
+        ]
+      },
+      "pmRoutine": {
+        "stepCount": "4 steps",
+        "steps": [
+          {
+            "step": 1,
+            "name": "Cleanser",
+            "category": "cleansing",
+            "purpose": "Remove makeup, SPF, and impurities without stripping skin",
+            "productType": "cream cleanser or double cleanse (oil + gel)",
+            "howTo": "Massage onto skin, emulsify with water, rinse thoroughly."
+          },
+          {
+            "step": 2,
+            "name": "Barrier Repair Serum",
+            "category": "Barrier Treatment",
+            "purpose": "Rebuild skin barrier and improve elasticity overnight",
+            "productType": "serum with ceramides, peptides, and honey/propolis",
+            "howTo": "Apply evenly to face and neck, pat gently."
+          },
+          {
+            "step": 3,
+            "name": "Exfoliate",
+            "category": "Exfoliators",
+            "purpose": "Gently smooth texture without disrupting hydration",
+            "productType": "PHA or lactic acid exfoliant",
+            "howTo": "Use 1–2x/week instead of essence, always follow with moisturizer."
+          }
+        ]
+      }
+    }
+  },
+  "productCategoryMapping": {
+    "cleansing": {
+      "dry": {
+        "productType": "Cream Cleanser",
+        "productName": "CeraVe Hydrating Facial Cleanser",
+        "howTo": "Apply cleanser to dry skin with fingertips\nMassage gently for 30-60 seconds\nRinse with lukewarm water and pat dry",
+        "whyEffective": "Contains ceramides and hyaluronic acid that cleanse while maintaining the skin's natural moisture barrier.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/CeraVe-Hydrating-Facial-Cleanser-Washing/dp/B00D7BZJ3C?utm_source=chatgpt.com&th=1",
+        "productImage": "products/cleanser/dry_cleanser.png"
+      },
+      "normal": {
+        "productType": "Gel Cleanser",
+        "productName": "La Roche-Posay Toleriane Purifying Foaming Cleanser",
+        "howTo": "Apply to damp skin and work into light lather\nMassage for 30 seconds focusing on entire face\nRinse thoroughly with lukewarm water",
+        "whyEffective": "Formulated with niacinamide and ceramides to cleanse effectively while maintaining skin balance and reducing irritation.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/Roche-Posay-Toleriane-Purifying-Sensitive-Niacinamide/dp/B01N34XW93/ref=sr_1_1?crid=22IKEJERDZDX2&dib=eyJ2IjoiMSJ9.1ccpRl5PPKwuAwzLdJCsacXvWOqtIFLU1FFajD3n3dIpX4vI43w5DIaT50Bq-uMhTBh07BAdRfzkbwSm7q1qk_p5IAsMn5gUYEi5VJE9QmtOQUQdHVibRGZNUW_NdmhdhRSkxJDhP5DzsLTmsIMYWQTne7sFMAkmA_i-nE_vUE5g2-6xCujDSSvWm-KroaFWkHajHOerJRKaJTKp81BP9UJewHF-rfUNsPnqbhz42Wb0eSuqorCpWir5tvn2YTzWw0GpP0_CYocYql19-u1eQ5PyIuBm8HmhxAHFSK-7m-k.EPSQp2i7Zlb6DwJzaq-FHRBdGERIi76z_Lz5curQjkw&dib_tag=se&keywords=La%2BRoche%E2%80%91Posay%2BToleriane%2BPurifying%2BFoaming%2BCleanser&qid=1754695471&s=beauty&sprefix=la%2Broche%2Bposay%2Btoleriane%2Bpurifying%2Bfoaming%2Bcleanser%2Cbeauty%2C69&sr=1-1&th=1",
+        "productImage": "products/cleanser/normal_cleanser.png"
+      },
+      "oily": {
+        "productType": "Foaming Cleanser",
+        "productName": "Neutrogena Ultra Light Cleansing Oil",
+        "howTo": "Apply to wet skin and work into rich foam\nMassage for 45 seconds focusing on T-zone\nRinse thoroughly and use twice daily",
+        "whyEffective": "Oil-based formula effectively dissolves excess sebum and makeup while being gentle enough for daily use.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/Neutrogena-Ultra-Light-Cleansing-Oil/dp/B01034IN9M/ref=sr_1_1?crid=3CR5C0V8H49TO&dib=eyJ2IjoiMSJ9.e2BlDnkkaFsmrsFUWihuAQuXg3g1WAL2SFrEL6TRfKUkacYHXRCxhuz2RirJkJ3OMYUMoKEzkv91HPc-xl7UlPgbwUifbPmdBlFQ2n3laqGB2b6VnpOfSFbiT0gvE_MiNAjDXl7wTw0qQ6zzky8NPb30PPmvHAfIWVoi0xAkFeAH2M1u35tEAhavc-jJQu5yo9psDMXHjL_wb6cviW1V7g7L_0GXiFt0IQAkAXUgwkUoR9s3NWhxyRmYJtWLOHwMx6b9YC2bXjc54ls5Pvw-v8niNyXPqDjDh9DxVmON__w.db4GjhAh_cow5Dj2SUC0SjtGRTyIscOBilayPDxwLQY&dib_tag=se&keywords=Neutrogena%2BUltra%2BLight%2BCleansing%2BOil&qid=1754758166&s=beauty&sprefix=neutrogena%2Bultra%2Blight%2Bcleansing%2Boil%2Cbeauty%2C57&sr=1-1&th=1",
+        "productImage": "products/cleanser/oil_cleanser.png"
+      },
+      "combination": {
+        "productType": "Gel-foam Cleanser",
+        "productName": "Neutrogena Ultra Gentle Daily Cleanser",
+        "howTo": " Apply to damp skin and create light foam\nMassage gently for 30 seconds, focus on T-zone\nRinse well with lukewarm water",
+        "whyEffective": "Polyhydroxy acid gently exfoliates while being sulfate-free, making it perfect for balancing combination skin needs.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/Neutrogena-Balancing-Polyhydroxy-Paraben-Free-Sulfate-Free/dp/B088S15MCJ?utm_source=chatgpt.com",
+        "productImage": "products/cleanser/combination_cleanser.png"
+      }
+    },
+    "moisturizing": {
+      "dry": {
+        "productType": "Rich Cream Moisturizer",
+        "productName": "CeraVe Moisturizing Cream",
+        "howTo": "Apply generous amount to clean face and neck\nMassage in upward circular motions\nAllow full absorption before next step",
+        "whyEffective": "Formulated with ceramides and hyaluronic acid to restore and maintain the skin's natural barrier while providing long-lasting hydration.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC?th=1",
+        "productImage": "products/moisturizers/dry_moisturizer.png"
+      },
+      "normal": {
+        "productType": "Lotion Cream Moisturizer",
+        "productName": "Cetaphil Daily Facial Moisturizer",
+        "howTo": "Apply moderate amount to face and neck\nPat and massage gently until absorbed\nAdjust amount based on seasonal needs",
+        "whyEffective": "Contains hyaluronic acid that holds up to 1000 times its weight in water, providing optimal hydration without heaviness.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/Hyaluronic-Combination-Non-Comedogenic-Dermatologist-Recommended/dp/B01MG4PSK4",
+        "productImage": "products/moisturizers/normal_moisturizer.png"
+      },
+      "oily": {
+        "productType": "Oil-free Gel-cream Moisturizer",
+        "productName": "La Roche-Posay Toleriane Double Repair Moisturizer",
+        "howTo": "Apply thin layer to face and neck\nPat gently until absorbed, avoid T-zone\nUse morning and evening after treatments",
+        "whyEffective": "Oil-free formula with niacinamide and ceramides provides essential hydration while controlling excess oil production.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ?th=1",
+        "productImage": "products/moisturizers/oil_moisturizer.png"
+      },
+      "combination": {
+        "productType": "Gel-lotion Moisturizer",
+        "productName": "Aveeno Calm + Restore Oat Gel Moisturizer",
+        "howTo": "Apply more product to dry cheek areas\nUse lighter amount on oily T-zone\nPat gently until absorbed, adjust as needed",
+        "whyEffective": "Lightweight gel-lotion hybrid with oat extract balances hydration needs of both dry and oily areas effectively.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/dp/B09TZDXTRT/ref=sspa_dk_offsite_search_5185?aaxitk=00990544be3a26f3e9bfb59c38beefde&tag=byrdie-onsite-prod-20&ascsubtag=4593661%7Cn891464b96acd45c79737f074cf40ea1700%7CB09TZDXTRT%7C1754700933358%7C%7C&th=1",
+        "productImage": "products/moisturizers/combination_moisturizer.png"
+      }
+    },
+    "Barrier Treatment": {
+      "dry": {
+        "productType": "Ceramide Ointment Barrier Treatment",
+        "productName": "CeraVe Healing Ointment",
+        "howTo": "Apply generous amount after serums\nMassage gently until absorbed\nUse nightly for intensive barrier repair",
+        "whyEffective": "Contains petrolatum, ceramides, and hyaluronic acid to create a protective barrier while repairing damaged skin.",
+        "rateOfImportance": 4,
+        "amazonUrl": "https://www.amazon.com/CeraVe-Protectant-Petrolatum-Ceramides-Fragrance/dp/B016F3MG2U",
+        "productImage": "products/barrier/dry_barrier.png"
+      },
+      "normal": {
+        "productType": "Peptide Cream Barrier Treatment",
+        "productName": "The INKEY List Peptide Moisturizer",
+        "howTo": "Apply moderate amount after serums\nPat and massage until fully absorbed\nUse 4-5x per week or as needed",
+        "whyEffective": "Peptides stimulate collagen production while strengthening the skin barrier and reducing signs of aging.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Inkey-List-Moisturizer-Appearance-Wrinkles/dp/B09MRGXSHL",
+        "productImage": "products/barrier/normal_barrier.png"
+      },
+      "oily": {
+        "productType": "Gel Sleeping-mask Barrier Treatment",
+        "productName": "LANEIGE Water Sleeping Mask",
+        "howTo": "Apply thin layer as final PM step\nPat gently until absorbed\nUse 3-4x per week to avoid over-moisturizing",
+        "whyEffective": "Lightweight gel formula delivers intensive overnight hydration and barrier repair without clogging pores.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/LANEIGE-Bouncy-Firm-Sleeping-Mask/dp/B0CZ7MXPG8",
+        "productImage": "products/barrier/oily_barrier.png"
+      },
+      "combination": {
+        "productType": "Balm-gel Barrier Treatment",
+        "productName": "COSRX Balancium Comfort Ceramide Cream",
+        "howTo": "Apply more to dry cheek areas\n Use lighter amount on T-zone\nPat gently and use 4-5x per week",
+        "whyEffective": "Ceramide-rich formula balances different skin zones while strengthening the overall barrier function.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/COSRX-Balancium-Comfort-Ceramide-Cream/dp/B07CZZ2QGB",
+        "productImage": "products/barrier/combination_barrier.png"
+      }
+    },
+    "Exfoliators": {
+      "dry": {
+        "productType": "Gentle AHA Exfoliant",
+        "productName": "The Ordinary Lactic Acid 5% + HA",
+        "howTo": "Apply thin layer to clean skin PM only\nStart 2-3x per week, avoid eye area\nAlways follow with moisturizer and SPF next day",
+        "whyEffective": "Lactic acid gently exfoliates dead skin cells while hyaluronic acid provides hydration, making it ideal for sensitive skin.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Ordinary-Lactic-Acid-30ml-Superficial/dp/B01NA0F3FB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sUUz8bHp2tg1TzBpTpRaihPBiQKNx-V-iBod9xL0tyjSG-P23dEytQJ7oyGh-xcnvqI2QRmvgstHcxonCloPCRHsP8V9fqpb7Tr3ntQvOBOSwu5snyq-Ly3sRYgKeVqzunj4ToSXUjh-PnQK54AW6l4N-NHxl-5IDKPGDLMDb35Sb1Y1I5jaCvn8dgnaC8CdgJBXvT7vK70zeEErP2fL4qH7Sz-LnMwzrSSLaT2_klxgzVknUwRL7mxIheoBiDsoReWqWdxRS29L-5PJQQUtROIJVp7JzQu3h478gtczZM4.Rlzr0zhcguTr1QweyLEvVPUOhPMCGFaPtLoDzywXPuI&dib_tag=se&keywords=he%2BOrdinary%2BLactic%2BAcid%2B5%25%2B%2B%2BHA&qid=1754704144&sr=8-1&th=1",
+        "productImage": "products/exfoliators/dry_exfoliator.png",
+        "daysToApply":"Monday,Thursday"
+      },
+      "normal": {
+        "productType": "Balanced BHA Exfoliant",
+        "productName": "COSRX BHA Blackhead Power Liquid",
+        "howTo": "Apply with cotton pad to clean skin\nStart 2-3x per week, gradually increase\nUse PM only, always follow with SPF next day",
+        "whyEffective": "Betaine salicylate (gentler BHA) unclogs pores and refines texture while niacinamide soothes and hydrates.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Cosrx-Bha-Blackhead-Power-Liquid/dp/B00OZEJ8R8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UX7XrowgPBTZr-5EuXFdRqlm-Cv_AmWCeaRiN2mVpn7RlRZtdR5C6roZivl7PPMudy2GAZE7M_h6CttNi8ElSPathF59l0NcFxUunvqqVCkcLBi6qpZS1RmSbaDh-m1rHZjy2hR8hSi892pcuV4ERDFj8xxmWIKL1J0a2Tn7n-xxLEBaVGsVKZjjmIVxhWsw2RAltsXWkE0EIYjhBsrZg89DiI_zOvr6tQ53DzSINsahQ-lNLBCMEVUaRTgZkfAA4g0FobW4ypKlVLLcG5CQtHRcSYVVUj1Vz7kF9I-JNMA.mB1n5dSdr-R4EwI0V9cyeERT-yC5SO2Lo2GCoISlDMA&dib_tag=se&keywords=COSRX+BHA+Blackhead+Power+Liquid&qid=1754704180&sr=8-1",
+        "productImage": "products/exfoliators/normal_exfoliator.png",
+        "daysToApply":"Monday,Thursday"
+      },
+      "oily": {
+        "productType": "BHA Liquid Exfoliant",
+        "productName": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+        "howTo": "Apply with cotton pad PM only\nStart 3x per week, build tolerance\nFocus on pore-prone areas and T-zone",
+        "whyEffective": "Salicylic acid penetrates deep into pores to dissolve oil and debris while being gentle enough for daily use.",
+        "rateOfImportance": 4,
+        "amazonUrl": "https://www.amazon.com/Paulas-Choice-SKIN-PERFECTING-Salicylic-Exfoliant/dp/B07D8DBS7S?th=1",
+        "productImage": "products/exfoliators/oil_exfoliator.png",
+        "daysToApply":"Monday,Thursday"
+      },
+      "combination": {
+        "productType": "Gentle BHA Exfoliant",
+        "productName": "COSRX BHA Blackhead Power Liquid",
+        "howTo": "Apply with cotton pad 3-4x per week\nFocus on T-zone, avoid dry cheek areas\nUse PM only with hydrating base",
+        "whyEffective": "Betaine salicylate provides gentler exfoliation than salicylic acid while niacinamide balances different skin zones.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Cosrx-Bha-Blackhead-Power-Liquid/dp/B00OZEJ8R8/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UX7XrowgPBTZr-5EuXFdRqlm-Cv_AmWCeaRiN2mVpn7RlRZtdR5C6roZivl7PPMudy2GAZE7M_h6CttNi8ElSPathF59l0NcFxUunvqqVCkcLBi6qpZS1RmSbaDh-m1rHZjy2hR8hSi892pcuV4ERDFj8xxmWIKL1J0a2Tn7n-xxLEBaVGsVKZjjmIVxhWsw2RAltsXWkE0EIYjhBsrZg89DiI_zOvr6tQ53DzSINsahQ-lNLBCMEVUaRTgZkfAA4g0FobW4ypKlVLLcG5CQtHRcSYVVUj1Vz7kF9I-JNMA.mB1n5dSdr-R4EwI0V9cyeERT-yC5SO2Lo2GCoISlDMA&dib_tag=se&keywords=COSRX+BHA+Blackhead+Power+Liquid&qid=1754704180&sr=8-1",
+        "productImage": "products/exfoliators/combination_exfoliator.png",
+        "daysToApply":"Monday,Thursday"
+      }
+    },
+    "hydration": {
+      "all": {
+        "productType": "Hyaluronic Acid Serum",
+        "productName": "The Ordinary Hyaluronic Acid 2% + B5",
+        "howTo": "Apply 2-3 drops to clean, damp skin\nGently pat in with fingertips\nLayer 2-3 times for extra hydration if needed",
+        "whyEffective": "Hyaluronic acid holds up to 1000 times its weight in water, providing intense hydration while vitamin B5 soothes skin.",
+        "rateOfImportance": 4,
+        "amazonUrl": "https://www.amazon.com/Ordinary-Hyaluronic-Acid-2-30ml/dp/B01MYEZPC8/ref=sr_1_3?crid=2NVYA8JTAIEWJ&dib=eyJ2IjoiMSJ9.t16AvfjxYMeWwFiESsHWNlBFfnG-SgTwlhRYT8pMdiL6KO6LBFvT2eMcnpHO-C4vpSWND7T6SEZflFaJB0BbYN0HOU3KSjWhoeeE052e0F_XG__RnQCqhlv9Fpoi7qu2-3FRllU_WjVQGuWKtJw_Ltr6IvL86NWsatyAipm1lqS55kppvLjOZa9iMhreo7dkk90xTiN4Q_7IVJLAHs4DHvN11AVSAD38V5PDYAvSqWONPohIP6JaXsmGXWlYnc3SJCm7r0lztsKUiyFj84l0WIxkGmkQQtj2-WwdIf7rxQk.ah2wTTbEOZnouvamf99JxQimnxQ2nTlLollDa3gMpm8&dib_tag=se&keywords=The%2BOrdinary%2BHyaluronic%2BAcid%E2%80%AF2%25%E2%80%AF%2B%E2%80%AFB5&qid=1754716988&sprefix=the%2Bordinary%2Bhyaluronic%2Bacid%2B2%25%2B%2B%2Bb5%2Caps%2C74&sr=8-3&th=1",
+        "productImage": "products/hydration.png"
+      }
+    },
+    "brightening treatment": {
+      "all": {
+        "productType": "Vitamin C Serum",
+        "productName": "CeraVe Skin Renewing Vitamin C Serum",
+        "howTo": "Apply 2-3 drops to clean skin\nGently pat in with fingertips\nWait 1-2 minutes before next step, use AM only",
+        "whyEffective": "Vitamin C brightens skin and fades dark spots while hyaluronic acid provides hydration and ceramides strengthen the barrier.",
+        "rateOfImportance": 4,
+        "amazonUrl": "https://www.amazon.com/CeraVe-Vitamin-Hyaluronic-Brightening-Fragrance/dp/B07PNCCLD2/ref=sr_1_1?crid=T2EAXVJPR4ZR&dib=eyJ2IjoiMSJ9.rVqpIVBigspUcHOKC7YudzBO061TUWzYdj9e4IZ-IhB5oky-DcUnehvx3meywySJ52L16JuRXizYJejCLmQd_Eq4-EWtkWVF2j0dBu99buTABJbIuZOiztaxILzCu1-P9m5Q5qMU50Dcop4MIQmUKBOCAZSv3Ubnp7bI9VQGbNSuEdoHLzvyo_g3j6mrhNrIUnaNuS0RdMQdWIXhdbbzx-a5h1cgskDI0gGTIo0kxr1UYnSzenHMcrAFQXQztJ2elINPuZjyWW8KlpIKmnRpZk2jiU5I1S-Sb6UuLt3VLtg.TDT47bhVvfIfhafGg8WfsLAr9Uz40wGYGhRNR5JdiwI&dib_tag=se&keywords=CeraVe+Skin%E2%80%AFRenewing+Vitamin%E2%80%AFC+Serum&qid=1754717136&s=beauty&sprefix=cerave+skin+renewing+vitamin+c+serum%2Cbeauty%2C54&sr=1-1",
+        "productImage": "products/vitaminc.png"
+      }
+    },
+    "Protect": {
+      "all": {
+        "productType": "Sunscreen SPF 30+",
+        "productName": "CeraVe Hydrating Mineral Sunscreen SPF 30",
+        "howTo": "Apply generous amount (1/4 teaspoon) to face and neck\nApply 15 minutes before sun exposure\nReapply every 2 hours or after sweating",
+        "whyEffective": "Zinc oxide and titanium dioxide provide broad-spectrum protection while ceramides and hyaluronic acid hydrate skin.",
+        "rateOfImportance": 5,
+        "amazonUrl": "https://www.amazon.com/CeraVe-Sunscreen-Hydrating-Mineral-Titanium/dp/B07YLKXV11/ref=sr_1_1?crid=HI1R20BB83EQ&dib=eyJ2IjoiMSJ9.OfS8qEf2yPOZKWre_o-TaHewGU4_OFiDTnkPo2nZR0O3NxIGQrFjk2dBNi88hm9AAhu_NS83s1cGQHQTG02TqI61VKygfOL0cOiAss2hb-EhmK6YA9vK_nXC1S00VlT52t8SlHq2sM7cbCB4JXu78Q8pr2rEC5ekLOeMquTOFPgAyx4Q2z8qYWQMbl1RxVO6Am4SbOFP0zxXIg_eCIzJcGR3dsw4XSt8ccWp0rKFdTsY49PMPAeFzQNp3uJsIg15SflpvVFZStf9ufTkgjxw_PAVqR89Q9pCvxTuttY8n_E.MKkyBYkj1ir2myXDDuyOtXKXtwLKVK8L_ScieunE9q0&dib_tag=se&keywords=CeraVe%2BHydrating%2BMineral%2BSunscreen%2BSPF%2B30&qid=1754717360&s=beauty&sprefix=cerave%2Bhydrating%2Bmineral%2Bsunscreen%2Bspf%2B30%2B%2Cbeauty%2C63&sr=1-1&th=1",
+        "productImage": "products/sunscreen.png"
+      }
+    },
+    "spot treatment": {
+      "all": {
+        "productType": "Benzoyl Peroxide Spot Treatment",
+        "productName": "Neutrogena On-The-Spot Acne Treatment",
+        "howTo": "Apply small amount directly to active blemishes\nStart every other night to build tolerance\nUse PM only to avoid sun sensitivity",
+        "whyEffective": "Benzoyl peroxide kills acne-causing bacteria and reduces inflammation while micronized formula minimizes irritation.",
+        "rateOfImportance": 2,
+        "amazonUrl": "https://www.amazon.com/Neutrogena-Treatment-Micronized-Breakouts-Paraben-Free/dp/B08D4MH7XQ/ref=sr_1_4_sspa?crid=XBSI6I0RA4IQ&dib=eyJ2IjoiMSJ9.GKjbNnL5kLXf7eyunzmoKCFAGp9r-jKEKjyA2T8VKc--LkLSTx9ftVzbTP_ZK1mKM3ATUllmGX55g6JDHwdusCQahMsVU0ym__T5XtOPU0wp-a20iEnx1oeJLOEl7L-BtAP5dU7flgj-Nt76RuEOW_lUktNlIa-zwmyAyQ3sK5uJFdLcHeg3k1v4Y7_US1D6ju_gVzIYbSK7lg0mfOkmIZ5IeuY_BD1-Oi_2dWILoxjPcvJLYneLABdmjBxXMc8zyYdMautkBzy4pmrLjH9Gw0sz39J_Eud-baFyJ8Ov8kQ.PxSZhjCMVsyIvjCZ21WfO7fC5LDdUCRX8XhQ_fviEbc&dib_tag=se&keywords=%22benzoyl+peroxide+spot+treatment&qid=1754718156&rdc=1&s=beauty&sprefix=benzoyl+peroxide+spot+treatment%2Cbeauty%2C59&sr=1-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "productImage": "products/spot.png"
+      }
+    },
+    "soothing treatment": {
+      "all": {
+        "productType": "Niacinamide Serum",
+        "productName": "The Ordinary Niacinamide 10% + Zinc 1%",
+        "howTo": "Apply 2-3 drops to clean skin\nGently pat in with fingertips\nStart once daily, can use AM and PM",
+        "whyEffective": "Niacinamide reduces inflammation and controls oil production while zinc provides additional antimicrobial benefits.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Ordinary-Niacinamide-10-Zinc-30ml/dp/B01MDTVZTZ/ref=sr_1_5?crid=1WES23AG55V2N&dib=eyJ2IjoiMSJ9.1SGb-W-CVRCxGkGGUkPIKqd-EiNCgSZlSWj-HKFNhJ-IUo7XiNoL43FzAz-cR6U3MHY4GgCVA8uP_QcNnLvUgMRr6MrEgh1hc1lmEPRaCPmqQ8DJrotu5mBpepEZiOAmvddruM1YMpwPS83l588uu9aDsxJiwnvOeN36HR14AM6Yb-Ah7P6TAV5utIY75NAoLDAcCqld73ReDM8WwBtAjmGbDPuihSdPLvl0FhZ8sAbN8OXDDgPHZMOFoI9SwO5iCvnNtT_LE7_aU7MwTbx23RWOZrS12NmOuKf5Hcg0j6g.gkTOhRcAqiClNm5G4Hk6DITVYjEGULXQzFi1hRiOQg4&dib_tag=se&keywords=Niacinamide&qid=1754718737&s=beauty&sprefix=niacinamide%2Cbeauty%2C75&sr=1-5&th=1",
+        "productImage": "products/soothing.png"
+      }
+    },
+    "hydrating toner": {
+      "all": {
+        "productType": "Hydrating Essence or Toner",
+        "productName": "COSRX Hydrium Watery Toner",
+        "howTo": "Pat onto skin after cleansing\nUse 2–3 layers if skin is dehydrated\nAllow each layer to fully absorb",
+        "whyEffective": "Hyaluronic acid and vitamin B5 provide deep hydration while preparing skin for better absorption of subsequent products.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/COSRX-Hydrium-Watery-Toner-280ml/dp/B07ZR9NLXF?utm_source=chatgpt.com&th=1",
+        "productImage": "products/hydratingtoner.png"
+      }
+    },
+    "antioxidant treatment": {
+      "all": {
+        "productType": "Propolis and Niacinamide Serum",
+        "productName": "Beauty of Joseon Glow Serum",
+        "howTo": "Apply 2–3 drops to face and neck\nPat in gently with fingertips\nLayer thinnest to thickest consistency",
+        "whyEffective": "Propolis provides antioxidant protection while niacinamide reduces inflammation and controls oil for a healthy glow.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Beauty-Joseon-Niacinamide-Hydrating-Moisturizer/dp/B0F8LBX37X/ref=sr_1_1_sspa?crid=36U40OYT2886M&dib=eyJ2IjoiMSJ9.lCPf-hSQiGF7fNHMcnm5y_v57SCktQDmDsMoquwzxbIVOIXtzEihmkdqAygDFrvPVhH84WPxkDo8IiIRhJeaFjG5K_LONc4BlelWUj3gjlDXNRTQI2s28r4Fqql1omwPXppcQdf6CeZ74MjEqX3b22GeyhP6J8z3rzF112zN9rxc6c4EIiGF0hM5o7D7OStXL52jNJwQ96dFQ-4gos1ovfT_5_8i1_6sNUrvpfyCkDVI3S15BrFreX2E4Kdjqb5CR5S2OtIgldq8qOpg2hDxWrxNggRzDlKKFK3eTbE3two.ORH_Oqy0Z__sJHsds5hqVZZktzdWcVv_rjljAcbEKec&dib_tag=se&keywords=Beauty%2Bof%2BJoseon%2BGlow%2BSerum%2B(Propolis%2B%2B%2BNiacinamide)&qid=1754762325&s=beauty&sprefix=beauty%2Bof%2Bjoseon%2Bglow%2Bserum%2Bpropolis%2B%2B%2Bniacinamide%2B%2Cbeauty%2C75&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "productImage": "products/antioxidant.png"
+      }
+    },
+    "exfoliating treatment": {
+      "all": {
+        "productType": "BHA Liquid Exfoliant",
+        "productName": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+        "howTo": "Apply with cotton pad PM only\nStart 3x per week, build tolerance\nFocus on pore-prone areas",
+        "whyEffective": "Salicylic acid penetrates deep into pores to dissolve oil and dead skin cells while being gentle enough for regular use.",
+        "rateOfImportance": 3,
+        "amazonUrl": "https://www.amazon.com/Paulas-Choice-SKIN-PERFECTING-Salicylic-Exfoliant/dp/B07D8DBS7S?th=1",
+        "productImage": "products/exfoliators/oil_exfoliator.png",
+        "daysToApply":"Monday,Thursday"
+      }
+    }
+  },
+ 
+  "conditionalProducts": {
+    "breakoutDetection": {
+      "threshold": 0.2,
+      "description": "When breakouts are detected above threshold, use breakout-specific products",
+      "products": {
+        "brightening treatment": {
+          "name": "Face Reality Sal‑C Toner (BHA + Vitamin C)",
+          "productType": "BHA + Vitamin C toner",
+          "purpose": "Clear breakouts while brightening skin tone",
+          "howTo": "Apply with cotton pad morning and evening after cleansing. Start 3x per week, gradually increase frequency. Avoid eye area.",
+          "amazonUrl": "hhttps://facerealityskincare.com/products/sal-c-toner?srsltid=AfmBOorCf4b8LHdpwYJLvqCECzhxyiID2FpKQHJGRbm8vsW2kcdif-m8&variant=41394079498379", 
+          "productImage": "products/FaceReality.png",
+          "replacesSteps": ["Brightening Step", "Hydration Booster", "Propolis + Antioxidant Serum"]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "version": "0",
+    "lastUpdated": "2024-01-17",
+    "description": "Dream skin templates for personalized skincare routine recommendations with conditional product logic"
+  }
+}

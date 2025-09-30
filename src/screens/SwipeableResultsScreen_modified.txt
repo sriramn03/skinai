@@ -1,0 +1,14 @@
+Key changes needed for SwipeableResultsScreen.tsx:
+
+1. Change totalPages from 4 to 3 (line 84)
+2. Update comments about which page is which
+3. Comment out renderSkinGoalsPage() calls (lines 822, 842)
+4. Update continue button condition from currentPage === 3 to currentPage === 2 (line 901)
+5. Update slide animation condition from currentPage === 3 to currentPage === 2 (line 804)
+6. Update slide animation comment (line 133)
+7. Update nav bar comment (line 800)
+
+Screen structure will be:
+- Page 0: Compact Results (renderCompactPage)
+- Page 1: Concerns (renderConcernsPage)  
+- Page 2: Skincare Routine (renderDreamRoutinePage) - with continue button
