@@ -8,6 +8,7 @@
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
@@ -22,8 +23,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/loadingscreen.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#000000"
+      },
+      "splash": {
+        "image": "./assets/icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000",
+        "mdpi": "./assets/icon.png",
+        "hdpi": "./assets/icon.png",
+        "xhdpi": "./assets/icon.png",
+        "xxhdpi": "./assets/icon.png",
+        "xxxhdpi": "./assets/icon.png"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.skinai",

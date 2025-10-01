@@ -38,11 +38,27 @@
           }
         },
         {
+          "client_id": "806342866300-qaqutvr6m1dlrmth8ck7rr2npbmav27f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "900b3dad3dccc26e9111ba01094fc1011f2b5890"
+          }
+        },
+        {
           "client_id": "806342866300-s17img6ffuoc429u5qjc1ort0qjak963.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.anonymous.skinai",
             "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "806342866300-umuu35jo6f7mki74hlfquopbfmk6aqej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.skinai",
+            "certificate_hash": "a60048ff3a120ecd5cea0023fb15387f20316560"
           }
         },
         {

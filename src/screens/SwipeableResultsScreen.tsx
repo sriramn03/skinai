@@ -936,10 +936,8 @@ export default function SwipeableResultsScreen({ imageUri, results, amRoutine, p
           appUserID={auth().currentUser?.uid}
           onUnlock={() => {
             setShowUnlockScreen(false);
-            // Only set isLocked to false on iOS. Android is always unlocked.
-            if (Platform.OS !== 'android') {
-              setIsLocked(false);
-            }
+            // Unlock for both iOS and Android after successful payment
+            setIsLocked(false);
           }}
           onRestore={() => {
             // The UnlockScreen handles restore internally

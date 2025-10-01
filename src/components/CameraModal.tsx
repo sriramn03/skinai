@@ -58,7 +58,7 @@ export default function CameraModal({
   const getInstructionText = () => {
     switch (mode) {
       case 'food':
-        return foodScanMode === 'food' ? '' : '';
+        return ''; // No instruction text for food scans
       case 'pimple':
         return 'Position pimple in the frame';
       case 'face':
@@ -434,7 +434,9 @@ export default function CameraModal({
                     <View style={[styles.guideCorner, styles.bottomLeftCorner]} />
                     <View style={[styles.guideCorner, styles.bottomRightCorner]} />
                   </View>
-                  <Text style={styles.guideText}>{getInstructionText()}</Text>
+                  {getInstructionText() !== '' && (
+                    <Text style={styles.guideText}>{getInstructionText()}</Text>
+                  )}
                 </View>
               </View>
 
