@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity, TextInput, Dimensions, Platform } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, TextInput, Dimensions, Platform, Linking } from 'react-native';
 import { Image } from 'expo-image';
 import { Feather, Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -307,6 +307,10 @@ export default function ExplorePage({ onRoutineUpdated }: ExplorePageProps) {
     </View>
   );
 
+  const handleCitationsPress = () => {
+    Linking.openURL('https://dermaiapp.com/citations.html');
+  };
+
   return (
     <>
     <ScrollView 
@@ -316,6 +320,17 @@ export default function ExplorePage({ onRoutineUpdated }: ExplorePageProps) {
       bounces={false}
     >
       {/* Header */}
+      <View style={styles.header}>
+        <Text style={styles.headerTitle}>Explore Products</Text>
+        <TouchableOpacity 
+          style={styles.citationsButton}
+          onPress={handleCitationsPress}
+          activeOpacity={0.7}
+        >
+          <Feather name="book-open" size={12} color="rgba(255, 255, 255, 0.9)" />
+          <Text style={styles.citationsText}>Citations</Text>
+        </TouchableOpacity>
+      </View>
      
       {/* Search Bar */}
       <View style={styles.searchContainer}>
@@ -551,8 +566,32 @@ const styles = StyleSheet.create({
   
   // Header Styles
   header: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
     paddingHorizontal: 24,
     marginBottom: 24,
+  },
+  headerTitle: {
+    fontSize: 28,
+    fontWeight: '700',
+    color: '#FFFFFF',
+    lineHeight: 36,
+  },
+  citationsButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 4,
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+    paddingHorizontal: 8,
+    paddingVertical: 5,
+    borderRadius: 6,
+    marginRight: 20
+  },
+  citationsText: {
+    color: 'rgba(255, 255, 255, 0.9)',
+    fontSize: 11,
+    fontWeight: '600',
   },
   title: {
     fontSize: 28,

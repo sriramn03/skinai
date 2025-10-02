@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Animated, Platform, Alert } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Animated, Platform, Alert, Linking } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import { Image } from 'expo-image';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -135,19 +135,31 @@ export default function DailyPage({ userRatings, amRoutine, pmRoutine, onRoutine
     >
       <View style={styles.sectionHeader}>
         <Text style={styles.sectionTitle}>Your Routine</Text>
-        <TouchableOpacity 
-          style={styles.editButton}
-          onPress={() => {
-            console.log('Edit button pressed! Current isEditMode:', isEditMode);
-            triggerButtonHaptics();
-            setIsEditMode(!isEditMode);
-          }}
-          testID="edit-routine-button"
-        >
-          <Text style={styles.editButtonText}>
-            {isEditMode ? 'Done' : 'Edit'}
-          </Text>
-        </TouchableOpacity>
+        <View style={styles.headerButtons}>
+          <TouchableOpacity 
+            style={styles.citationsButton}
+            onPress={() => {
+              triggerButtonHaptics();
+              Linking.openURL('https://dermaiapp.com/citations.html');
+            }}
+            activeOpacity={0.7}
+          >
+            <Feather name="book-open" size={16} color="rgba(255, 255, 255, 0.9)" />
+          </TouchableOpacity>
+          <TouchableOpacity 
+            style={styles.editButton}
+            onPress={() => {
+              console.log('Edit button pressed! Current isEditMode:', isEditMode);
+              triggerButtonHaptics();
+              setIsEditMode(!isEditMode);
+            }}
+            testID="edit-routine-button"
+          >
+            <Text style={styles.editButtonText}>
+              {isEditMode ? 'Done' : 'Edit'}
+            </Text>
+          </TouchableOpacity>
+        </View>
       </View>
 
       {/* AM/PM Toggle Buttons */}
@@ -492,6 +504,35 @@ const styles = StyleSheet.create({
     height: 78,
     backgroundColor: '#333',
   },
+  headerButtons: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 10,
+  },
+  citationsButton: {
+    backgroundColor: 'rgba(139, 92, 246, 0.3)',
+    borderRadius: 8,
+    width: 40,
+    height: 40,
+    alignItems: 'center',
+    justifyContent: 'center',
+    borderWidth: 1,
+    borderColor: 'rgba(139, 92, 246, 0.5)',
+    ...Platform.select({
+      ios: {
+        shadowColor: '#8B5CF6',
+        shadowOffset: {
+          width: 0,
+          height: 2,
+        },
+        shadowOpacity: 0.3,
+        shadowRadius: 4,
+      },
+      android: {
+        elevation: 2,
+      },
+    }),
+  },
   editButton: {
     backgroundColor: 'rgba(139, 92, 246, 0.3)',
     borderRadius: 8,
@@ -500,6 +541,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: 'rgba(139, 92, 246, 0.5)',
     minWidth: 60,
+    height: 40,
     alignItems: 'center',
     justifyContent: 'center',
     ...Platform.select({

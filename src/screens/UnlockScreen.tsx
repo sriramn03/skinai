@@ -163,7 +163,7 @@ export default function UnlockScreen({ onUnlock, onRestore, onTerms, onPrivacy, 
     //take out soon123
     // // TESTING BYPASS - Go directly to results screen
     // // console.log('TESTING MODE: Bypassing RevenueCat payment and going to results');
-    // // onUnlock(); // Directly call onUnlock to navigate to results
+    // onUnlock(); // Directly call onUnlock to navigate to results
     // return;
     
     // Original purchase logic (commented out for testing)

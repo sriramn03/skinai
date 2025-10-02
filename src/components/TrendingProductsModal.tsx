@@ -294,21 +294,21 @@ const styles = StyleSheet.create({
     color: 'rgba(255, 255, 255, 0.5)',
   },
   productsContainer: {
-    paddingHorizontal: 20,
-    paddingBottom: 30,
+    paddingHorizontal: 16,
+    paddingBottom: 100,
   },
   row: {
     justifyContent: 'space-between',
+    gap: 12,
   },
   separator: {
-    height: 20,
+    height: 16,
   },
   productCard: {
     flex: 1,
     backgroundColor: 'rgba(74, 85, 104, 0.15)',
     borderRadius: 16,
     padding: 12,
-    marginHorizontal: 5,
   },
   productImageContainer: {
     width: '100%',

@@ -72,7 +72,10 @@ export default function SimplifiedRatingScreen({ imageUri, onComplete, onBack, p
   // Pan responder for swipe-down-to-close
   const panResponder = useRef(
     PanResponder.create({
-      onStartShouldSetPanResponder: () => true,
+      onStartShouldSetPanResponder: (_, g) => {
+        // Only capture vertical swipes, let horizontal swipes pass through
+        return Math.abs(g.dy) > 10 && Math.abs(g.dy) > Math.abs(g.dx);
+      },
       onMoveShouldSetPanResponder: (_, g) => {
         // Only respond to primarily vertical gestures (swipe down)
         return Math.abs(g.dy) > 5 && Math.abs(g.dy) > Math.abs(g.dx) * 1.5;
@@ -199,8 +202,8 @@ export default function SimplifiedRatingScreen({ imageUri, onComplete, onBack, p
       <StatusBar style="light" />
       <Animated.View 
         style={[styles.screenContainer, { transform: [{ translateY: slideY }] }]}
-        {...panResponder.panHandlers}
       >
+       
         <CompactResultsScreen
           imageUri={imageUri}
           results={{
@@ -218,25 +221,8 @@ export default function SimplifiedRatingScreen({ imageUri, onComplete, onBack, p
             wrinkles: 0,
             texture: 0,
           }}
+          onContinue={handleAnimatedComplete}
         />
-
-        {/* Continue Button */}
-        <TouchableOpacity 
-          style={[styles.continueButton, isSaving && styles.continueButtonDisabled]} 
-          onPress={handleAnimatedComplete}
-          disabled={isSaving}
-        >
-          <LinearGradient
-            colors={isSaving ? ['#6B7280', '#9CA3AF'] : ['#A66BFF', '#6A4CFF']}
-            start={{ x: 0, y: 0 }}
-            end={{ x: 1, y: 1 }}
-            style={styles.continueButtonGradient}
-          >
-            <Text style={styles.continueButtonText}>
-              {isSaving ? 'Saving...' : 'Continue'}
-            </Text>
-          </LinearGradient>
-        </TouchableOpacity>
       </Animated.View>
     </SafeAreaView>
   );
@@ -249,6 +235,7 @@ const styles = StyleSheet.create({
   },
   screenContainer: {
     flex: 1,
+    marginTop: -60, // Raise the modal higher
   },
   profileContainer: {
     alignItems: 'center',
@@ -382,5 +369,21 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     fontSize: 16,
     fontWeight: '600',
+  },
+  swipeHandle: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    height: 40,
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 1,
+  },
+  swipeBar: {
+    width: 40,
+    height: 4,
+    backgroundColor: 'rgba(255, 255, 255, 0.3)',
+    borderRadius: 2,
   },
 });

@@ -92,7 +92,7 @@ android {
         applicationId 'com.anonymous.skinai'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 155
+        versionCode 1
         versionName "1.45.0"
     }
     signingConfigs {
@@ -102,12 +102,6 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
-        release {
-            storeFile file('../../upload-keystore.jks')
-            storePassword 'sH1NOBI-21289'
-            keyAlias 'upload'
-            keyPassword 'sH1NOBI-21289'
-        }
     }
     buildTypes {
         debug {
@@ -116,7 +110,7 @@ android {
         release {
             // Caution! In production, you need to generate your own keystore file.
             // see https://reactnative.dev/docs/signed-apk-android.
-            signingConfig signingConfigs.release
+            signingConfig signingConfigs.debug
             shrinkResources (findProperty('android.enableShrinkResourcesInReleaseBuilds')?.toBoolean() ?: false)
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
